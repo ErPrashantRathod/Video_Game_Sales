@@ -1,19 +1,9 @@
 # Video_Game_Sales_Analysis
 
-Airbnb is an online marketplace that connects people who want to rent out their homes with travelers seeking accommodations. 
-
 <img src="https://github.com/ErPrashantRathod/Video_Game_Sales/blob/main/30.4uxdxz.jpg" width=1000>
 
 ## Overview :
-This dataset contains Airbnb data for over 250,000 listings across 10 major cities worldwide. It includes detailed information about hosts, pricing, locations, room types, and over 5 million historical guest reviews. The dataset provides valuable insights for studying trends in the short-term rental market.
-
-## Dataset :
-The dataset includes the following files:
-- listings.csv
-Contains detailed information about Airbnb properties, including host details, location, pricing, and room types.
-- reviews.csv
-Includes guest reviews for Airbnb properties, covering feedback, review dates, and reviewer details.
-- Dataset Source : [AirBnB Listing and Review Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
+This dataset contains information about 16,598 video games, including their names, platforms, genres, publishers, release years, and sales figures. Sales data is provided for four regions: North America, Europe, Japan, and other regions, as well as total global sales. The data covers a wide range of years and gaming platforms.
 
 ## Insights :
 Game Genre Trends - 
