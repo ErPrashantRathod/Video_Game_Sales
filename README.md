@@ -2,7 +2,7 @@
 
 Airbnb is an online marketplace that connects people who want to rent out their homes with travelers seeking accommodations. 
 
-<img src="https://github.com/ErPrashantRathod/Video_Game_Sales/blob/main/Gaming-Background-Desktop.jpg" width=1000>
+<img src="https://github.com/ErPrashantRathod/Video_Game_Sales/blob/main/30.4uxdxz.jpg" width=1000>
 
 ## Overview :
 This dataset contains Airbnb data for over 250,000 listings across 10 major cities worldwide. It includes detailed information about hosts, pricing, locations, room types, and over 5 million historical guest reviews. The dataset provides valuable insights for studying trends in the short-term rental market.
