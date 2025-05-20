@@ -15,7 +15,7 @@ Nintendo's long-term IPs (Mario, Zelda, Pokémon) provide consistent high sales 
 
 A mix of casual (e.g., Wii Sports) and core gamer-focused titles dominate top sales globally.
 
-Platforms with long lifespans and broad appeal (casual + hardcore gamers) achieve top sales.
+Platforms with long lifespans and broad appeal achieve top sales.
 
 Action has both high release frequency and high global sales, indicating strong overall market dominance.
 
