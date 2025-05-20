@@ -6,22 +6,24 @@
 This dataset contains information about 16,598 video games, including their names, platforms, genres, publishers,years, and sales figures. Sales data is provided for four regions: North America, Europe, Japan, and other regions, as well as total global sales. The data covers a wide range of years and gaming platforms.
 
 ## Insights :
-Game Genre Trends - 
-Certain genres (like Action or Shooter) dominate sales in specific years, reflecting shifts in player preferences and blockbuster releases.
+1: Action remains a consistently dominant genre in yearly releases, reflecting developer interest and market demand.
 
-Publisher Dominance - 
-A few publishers, such as Nintendo, EA, and Activision, consistently lead global sales due to strong IPs and massive franchise successes.
+2: Although Action is released the most, Shooter games achieve the highest single-year sales, possibly due to 
+blockbuster franchises (like Call of Duty).
 
-Best-Selling Individual Games - Games like Wii Sports, GTA V, and Mario Kart significantly outperform others, indicating that franchises and innovative gameplay are key drivers of extreme success.
+3: Nintendo's long-term IPs (Mario, Zelda, Pokémon) provide consistent high sales globally.
 
-Platform Influence - Platforms with larger install bases (e.g., PlayStation 2, Wii, DS) have the highest total game sales globally, showing that platform popularity directly influences software performance.
+4: A mix of casual (e.g., Wii Sports) and core gamer-focused titles dominate top sales globally.
 
-Global Genre Preferences - Globally, Action and Sports genres have the highest cumulative sales, likely due to their replayability and wide demographic appeal.
+5: Platforms with long lifespans and broad appeal (casual + hardcore gamers) achieve top sales.
 
-Sales Over Time - Total global video game sales have fluctuated year to year, often peaking during major console release years or unique global events like the pandemic.
+6: Action has both high release frequency and high global sales, indicating strong overall market dominance.
 
-Regional Market Power - North America, Europe, and Japan are the top three regions by revenue, highlighting their long-standing roles as major contributors to the global gaming economy.
+7: A sharp rise in game development during late 2000s possibly due to indie boom and multiple platforms being active (PS3, Xbox 360, Wii).
 
+8: EA’s large volume of annual releases (sports games, sequels) helps it dominate in count, while Nintendo combines quality with volume.
+
+9: NA leads likely due to console-heavy market, high disposable income, and strong franchise support.
 ## Recommendation :
 Study genre trends to release games in genres that are peaking or consistently strong, such as Action or Shooter.
 
