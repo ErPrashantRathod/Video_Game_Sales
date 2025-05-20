@@ -3,7 +3,7 @@
 <img src="https://github.com/ErPrashantRathod/Video_Game_Sales/blob/main/30.4uxdxz.jpg" width=1000>
 
 ## Overview :
-This dataset contains information about 16,598 video games, including their names, platforms, genres, publishers, release years, and sales figures. Sales data is provided for four regions: North America, Europe, Japan, and other regions, as well as total global sales. The data covers a wide range of years and gaming platforms.
+This dataset contains information about 16,598 video games, including their names, platforms, genres, publishers,years, and sales figures. Sales data is provided for four regions: North America, Europe, Japan, and other regions, as well as total global sales. The data covers a wide range of years and gaming platforms.
 
 ## Insights :
 Game Genre Trends - 
