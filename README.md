@@ -35,8 +35,6 @@ Regional Market Power - North America, Europe, and Japan are the top three regio
 ## Recommendation :
 Study genre trends to release games in genres that are peaking or consistently strong, such as Action or Shooter.
 
-Build or acquire strong intellectual properties to increase long-term sales potential and brand loyalty.
-
 Prioritize development for platforms with the largest user bases to maximize reach and profitability.
 
 Consider remakes, sequels, or spin-offs of best-selling games to tap into established audiences
