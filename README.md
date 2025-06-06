@@ -6,7 +6,7 @@
 This dataset contains information about 16,598 video games, including their names, platforms, genres, publishers,Release years, and sales figures. Sales data is provided for four regions: North America, Europe, Japan, and other regions, as well as total global sales. The data covers a wide range of years and gaming platforms.
 
 ## Insights :
-Action remains a consistently dominant genre in yearly releases, reflecting developer interest and market demand.
+* Action remains a consistently dominant genre in yearly releases, reflecting developer interest and market demand.
 
 Although Action is released the most, Shooter games achieve the highest single-year sales, possibly due to 
 blockbuster franchises (like Call of Duty).
