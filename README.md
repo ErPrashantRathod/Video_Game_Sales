@@ -8,31 +8,31 @@ This dataset contains information about 16,598 video games, including their name
 ## Insights :
 * Action remains a consistently dominant genre in yearly releases, reflecting developer interest and market demand.
 
-Although Action is released the most, Shooter games achieve the highest single-year sales, possibly due to 
-blockbuster franchises (like Call of Duty).
+* Although Action is released the most, Shooter games achieve the highest single-year sales, possibly due to 
+  blockbuster franchises (like Call of Duty).
 
-Nintendo's long-term IPs (Mario, Zelda, Pokémon) provide consistent high sales globally.
+* Nintendo's long-term IPs (Mario, Zelda, Pokémon) provide consistent high sales globally.
 
-A mix of casual (e.g., Wii Sports) and core gamer-focused titles dominate top sales globally.
+* A mix of casual (e.g., Wii Sports) and core gamer-focused titles dominate top sales globally.
 
-Platforms with long lifespans and broad appeal achieve top sales.
+* Platforms with long lifespans and broad appeal achieve top sales.
 
-Action has both high release frequency and high global sales, indicating strong overall market dominance.
+* Action has both high release frequency and high global sales, indicating strong overall market dominance.
 
-A sharp rise in game development during late 2000s possibly due to indie boom and multiple platforms being active (PS3, Xbox 360, Wii).
+* A sharp rise in game development during late 2000s possibly due to indie boom and multiple platforms being active (PS3, Xbox 360, Wii).
 
-EA’s large volume of annual releases (sports games, sequels) helps it dominate in count, while Nintendo combines quality with volume.
+* EA’s large volume of annual releases (sports games, sequels) helps it dominate in count, while Nintendo combines quality with volume.
 
-NA leads likely due to console-heavy market, high disposable income, and strong franchise support.
+* NA leads likely due to console-heavy market, high disposable income, and strong franchise support.
 ## Recommendation :
-Study genre trends to release games in genres that are peaking or consistently strong, such as Action or Shooter.
+* Study genre trends to release games in genres that are peaking or consistently strong, such as Action or Shooter.
 
-Prioritize development for platforms with the largest user bases to maximize reach and profitability.
+* Prioritize development for platforms with the largest user bases to maximize reach and profitability.
 
-Consider remakes, sequels, or spin-offs of best-selling games to tap into established audiences
+* Consider remakes, sequels, or spin-offs of best-selling games to tap into established audiences
 
-Time releases around new console launches, holiday seasons, or global events that boost engagement.
+* Time releases around new console launches, holiday seasons, or global events that boost engagement.
 
-Tailor games and marketing strategies for specific regions—e.g., localized content for Japan or sports-heavy themes for North America.
+* Tailor games and marketing strategies for specific regions—e.g., localized content for Japan or sports-heavy themes for North America.
 
-While focusing on top-performing genres, explore opportunities in emerging or underrepresented genres to stand out.
+* While focusing on top-performing genres, explore opportunities in emerging or underrepresented genres to stand out.
